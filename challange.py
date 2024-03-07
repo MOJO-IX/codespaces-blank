@@ -10,5 +10,5 @@ if th >6:
 elif th >= 5 or th > 3:
     print("you have a 70% ! ")
 else:
-    print("bruh this i bullshit and you know it ")
+    print("low")
 
